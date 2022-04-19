@@ -71,6 +71,6 @@ Integrated with Shopify's Dawn theme, a carousel gallery is implemented onto the
   ],
 }; 
 ```
-3. run the command `npx tailwindcss -i ./assets/app-tailwind.css -o ./assets/app.css`
-4. Using Shopify's Theme Editor, select 'Carousel Gallery' for the desktop layout settings of the Product Information tab.
+<!-- 3. run the command `npx tailwindcss -i ./assets/app-tailwind.css -o ./assets/app.css` -->
+3. Using Shopify's Theme Editor, select 'Carousel Gallery' for the desktop layout settings of the Product Information tab.
 ![Screen Shot 2022-04-19 at 2 17 53 PM](https://user-images.githubusercontent.com/24572095/164069632-682bca0d-6e9e-4fb4-9dcb-ee786d546fd4.png)
