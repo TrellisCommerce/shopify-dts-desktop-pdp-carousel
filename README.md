@@ -9,7 +9,7 @@ Integrated with Shopify's Dawn theme, a carousel gallery is implemented onto the
 
 
 1. Replace the main-product.liquid file found  in your `sections` directory with the code found in the [main-product.liquid](https://github.com/TrellisCommerce/shopify-dts-desktop-pdp-carousel) file of this repo. 
- - If you are not using the [Dawn Tailwind Starter Base](https://github.com/TrellisCommerce/shopify-dawn-tailwind-starter-base) theme as your base, you will need to add the styles in ./assets/carousel.css to your liquid file. 
+ - If you are not using the [Dawn Tailwind Starter Base](https://github.com/TrellisCommerce/shopify-dawn-tailwind-starter-base) theme as your base, you will need to add the styles from carousel.css to your liquid file.
 2. In the tailwind.config.js file, add the following:
   ```javascript
   module.exports = {
