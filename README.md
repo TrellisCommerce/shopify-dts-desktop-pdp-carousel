@@ -2,7 +2,7 @@
 ---
 ![carousel_gallery_2](https://user-images.githubusercontent.com/24572095/164074915-26c8f4e3-cd39-4a68-a0b3-9853250232cb.gif)
 
-Integrated with Shopify's Dawn theme, a carousel gallery is implemented onto the product display page when viewed from a desktop. Carousel arrows only appear when more than one image is added. Users can browse through available images and may also choose which image to view by selecting the thumbnails below the main image. 
+Integrated with Shopify's Dawn theme, a carousel gallery is implemented onto the product display page when viewed from desktop. Carousel arrows only appear when more than one image is added. Users can browse through available images and may also choose which image to view by selecting the thumbnails below the main image. 
 
 ## How to Add This Feature to Your Theme
 ---
