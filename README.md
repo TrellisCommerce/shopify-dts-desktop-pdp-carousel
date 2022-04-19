@@ -1,6 +1,6 @@
 # Dawn TailwindCSS Starter - Desktop Carousel on Product Display Page
 ---
-![carousel_gallery](https://user-images.githubusercontent.com/24572095/164073307-d1422cd5-b021-420d-a6a3-0427a7e99927.gif)
+![carousel_gallery_2](https://user-images.githubusercontent.com/24572095/164074915-26c8f4e3-cd39-4a68-a0b3-9853250232cb.gif)
 
 Integrated with Shopify's Dawn theme, a carousel gallery is implemented onto the product display page when viewed from a desktop. Carousel arrows only appear when more than one image is added. Users can browse through available images and may also choose which image to view by selecting the thumbnails below the main image. 
 
